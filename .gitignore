@@ -2,7 +2,7 @@
 node_modules
 
 # Webpack output directories
-dist
+
 build
 
 # Logs
